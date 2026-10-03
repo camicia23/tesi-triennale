@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+
+venv/
+generazione_immagini/venv/
+
+generazione_immagini/GW150914_NR.txt
