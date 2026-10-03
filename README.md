@@ -1,4 +1,4 @@
-# Slide per la tesi triennale su Quantum metrology
+# Slide per tesi triennale su Quantum metrology
 
 Codice typst per la generazione delle slide che ho usato per la mia tesi triennale in Fisica all'Università di Pisa con titolo *Quantum metrology enhancement through quantum processing*.
 
